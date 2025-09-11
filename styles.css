@@ -5,7 +5,7 @@ body{
 }
 
 header{
-    border-bottom: double 3px red;
+    border-bottom: double 6px red;
     padding: 20px;
     font-size: 32px;
 }
@@ -16,8 +16,14 @@ section {
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
+    border-bottom: double 6px red; 
 }
 
 .texto {
     margin-right: 5%;
+    font-size: 28px;
+}
+
+.video {
+    border: double 6px red;
 }
