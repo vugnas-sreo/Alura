@@ -9,3 +9,15 @@ header{
     padding: 20px;
     font-size: 32px;
 }
+
+section {
+    background: rgb(0,200,200);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.texto {
+    margin-right: 5%;
+}
