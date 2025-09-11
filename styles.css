@@ -20,10 +20,11 @@ section {
 }
 
 .texto {
-    margin-right: 5%;
+    margin: 5%;
     font-size: 28px;
 }
 
 .video {
     border: double 6px red;
+    margin: 5%;
 }
