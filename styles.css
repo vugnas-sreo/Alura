@@ -26,4 +26,5 @@ section {
 
 .video {
     border: double 6px red;
+    margin: 5%;
 }
