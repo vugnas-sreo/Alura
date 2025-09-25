@@ -2,6 +2,7 @@ body{
     color: red;
     background: black;
     margin: 3px;
+    font-family: "Chakra Petch"
 }
 
 header{
@@ -25,6 +26,5 @@ section {
 }
 
 .video {
-    border: double 6px red;
     margin: 5%;
 }
