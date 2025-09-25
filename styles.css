@@ -1,14 +1,22 @@
-body{
+body {
     color: red;
     background: black;
     margin: 3px;
-    font-family: "Chakra Petch"
+    font-family: "Chakra Petch", sans-serif;
 }
 
-header{
+header {
     border-bottom: double 6px red;
     padding: 20px;
     font-size: 32px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
 }
 
 section {
