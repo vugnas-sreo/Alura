@@ -24,7 +24,7 @@ p {
     font-size: 30px;
 }
 
-section {
+.apresentacao {
     background: rgb(197, 133, 235);
     padding-top: 70px;
     padding-bottom: 80px;
@@ -32,6 +32,11 @@ section {
     display: flex;
     justify-content: center;
     border-bottom: solid 24px red; 
+}
+
+.osVideos {
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .texto {
@@ -46,4 +51,14 @@ section {
 .video {
     margin: 5%;
     border: double 6px red;
+}
+
+img {
+    height: 200px;
+}
+
+.categoriaVideos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
 }
