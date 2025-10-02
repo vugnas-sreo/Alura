@@ -28,9 +28,10 @@ section {
     background: rgb(197, 133, 235);
     padding-top: 80px;
     padding-bottom: 80px;
+    margin: 0px;
     display: flex;
     justify-content: center;
-    border-bottom: double 6px red; 
+    border-bottom: solid 24px red; 
 }
 
 .texto {
