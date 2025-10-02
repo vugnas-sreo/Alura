@@ -33,7 +33,11 @@ section {
     font-size: 28px;
 }
 
+.classeDoVideo {
+
+}
+
 .video {
-    margin: 5%;
+    padding: 5%;
     border: double 6px red;
 }
