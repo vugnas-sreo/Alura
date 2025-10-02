@@ -1,3 +1,8 @@
+body,html {
+    padding: 0px;
+    margin: 0px;
+}
+
 body {
     color: red;
     background: black;
@@ -34,10 +39,10 @@ section {
 }
 
 .classeDoVideo {
-
+    margin: 5%;
 }
 
 .video {
-    padding: 5%;
+    margin: 5%;
     border: double 6px red;
 }
