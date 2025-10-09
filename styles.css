@@ -44,11 +44,13 @@ p {
     font-size: 28px;
 }
 
-.classeDoVideo {
+.classeDoVideoPrincipal {
     margin: 5%;
 }
 
-.video {
+.videoPrincipal {
+    width: 560px;
+    height: 315px;
     margin: 5%;
     border: double 6px red;
 }
@@ -60,5 +62,6 @@ img {
 .categoriaVideos {
     display: flex;
     overflow-x: auto;
-    gap: 10px;
+    gap: 15px;
+    margin: 30px;
 }
