@@ -20,6 +20,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    color: red;
+}
+
 p {
     font-size: 30px;
 }
@@ -48,13 +52,9 @@ p {
 }
 
 .videoPrincipal {
-    width: 560px;
-    height: 315px;
+    width: 2240px;
+    height: 1260px;
     margin: 5%;
-}
-
-img {
-    height: 200px;
 }
 
 .categoriaVideos {
@@ -62,4 +62,14 @@ img {
     overflow-x: auto;
     gap: 15px;
     margin: 30px;
+}
+
+.categoriaVideos img {
+    opacity: 0.7;
+    height: 200px;
+}
+
+.categoriaVideos img:hover {
+    opacity: 1.0;
+    border: 3px solid red;
 }
