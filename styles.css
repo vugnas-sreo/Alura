@@ -31,7 +31,6 @@ p {
     margin: 0px;
     display: flex;
     justify-content: center;
-    border-bottom: solid 24px red; 
 }
 
 .osVideos {
@@ -52,7 +51,6 @@ p {
     width: 560px;
     height: 315px;
     margin: 5%;
-    border: double 6px red;
 }
 
 img {
